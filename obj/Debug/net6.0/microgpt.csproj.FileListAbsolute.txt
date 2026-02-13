@@ -1,0 +1,15 @@
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\bin\Debug\net6.0\microgpt.exe
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\bin\Debug\net6.0\microgpt.deps.json
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\bin\Debug\net6.0\microgpt.runtimeconfig.json
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\bin\Debug\net6.0\microgpt.dll
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\bin\Debug\net6.0\microgpt.pdb
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.AssemblyInfoInputs.cache
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.AssemblyInfo.cs
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.csproj.CoreCompileInputs.cache
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.sourcelink.json
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.dll
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\refint\microgpt.dll
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.pdb
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\microgpt.genruntimeconfig.cache
+C:\Users\jouve\Source\Repos\382882b98c006c12b3529e48988a364a\obj\Debug\net6.0\ref\microgpt.dll
